@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carregando_DLL_no_projeto", "Carregando_DLL_no_projeto\Carregando_DLL_no_projeto.csproj", "{6D6B0D93-75F3-4DE7-990C-1DD8B9DA2506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D6B0D93-75F3-4DE7-990C-1DD8B9DA2506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6B0D93-75F3-4DE7-990C-1DD8B9DA2506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6B0D93-75F3-4DE7-990C-1DD8B9DA2506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6B0D93-75F3-4DE7-990C-1DD8B9DA2506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6C7536-1359-4A50-A138-6C7906BD605E}
+	EndGlobalSection
+EndGlobal
